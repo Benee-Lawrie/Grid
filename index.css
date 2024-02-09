@@ -1,0 +1,9 @@
+.Grid-container{
+    margin: auto;
+    background-color: aqua;
+    font-size: 100px;
+}
+
+div{
+    display: grid;
+}
